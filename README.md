@@ -3,3 +3,4 @@ like repository name...
 # git tutorial
   - feature-A
   - fix-B
+  - feature-C[some changed]
