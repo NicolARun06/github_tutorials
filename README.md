@@ -4,3 +4,4 @@ like repository name...
   - feature-A
   - fix-B
   - feature-C[some changed]
+  - feature-D
